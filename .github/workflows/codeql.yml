@@ -1,4 +1,4 @@
-name: CodeQL analysis
+name:[![CodeQL analysis](https://github.com/github/docs/actions/workflows/codeql.yml/badge.svg?event=project)](https://github.com/github/docs/actions/workflows/codeql.yml) CodeQL analysis
 
 # **What it does**: This runs CodeQL on our repository.
 # **Why we have it**: Security scanning.
